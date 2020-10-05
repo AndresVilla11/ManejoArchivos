@@ -1,0 +1,4 @@
+#INMUEBLE
+
+#Tipo----Direccion----Ciudad----foto----TipoAd----Valor
+Apto	*Avenida 15	*Cali	*http://foto52	*09-08-2013	*Alquiler	*5000

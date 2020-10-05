@@ -1,0 +1,11 @@
+#INMUEBLE
+
+#Tipo----Direccion----Ciudad----foto----TipoAd----Valor
+Casa	*Calle20	*Bogota	*http://img2	*13-12-2001	*Venta	*200000
+
+#Propietarios
+#nombre---------telefono
+Angela Carrillo	*333
+Consuelo Franky	*222
+Herve Martin	*111
+0

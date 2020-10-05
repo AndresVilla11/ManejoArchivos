@@ -1,0 +1,14 @@
+#Propietarios
+#nombre---------telefono
+Julio Lemus	*5321
+0
+#INMUEBLE
+
+#Tipo----Direccion----Ciudad----foto----TipoAd----Valor
+Finca	*Vereda la luz	*Chia	*http://finca5	*02-01-1993	*Venta	*15000
+
+#Propietarios
+#nombre---------telefono
+Juan Benavides	*1236
+0
+#FIN
